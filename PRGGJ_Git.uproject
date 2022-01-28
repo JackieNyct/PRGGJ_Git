@@ -2,5 +2,22 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.27",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "TimeClock",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6f6a4afb66af43deb946a48b78d8c80a"
+		},
+		{
+			"Name": "ToggleSidebar",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/e6abd0bfd1b44327b64e36d9dc4ecaed"
+		},
+		{
+			"Name": "PlayerStatistics",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d7f729d535a04754b0c6b3e02f337d24"
+		}
+	]
 }
